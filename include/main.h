@@ -9,5 +9,7 @@
 
 #include "_printf.h"
 #include "_putchar.h"
+#include "_puts.h"
+#include "handle_format_specifier.h"
 
 #endif /*_MAIN_H_*/
